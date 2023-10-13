@@ -29,3 +29,5 @@
 14. make necessary changes in setup.py
 
 15. type "pip install -r requirements.txt"
+
+16. commit and push to Github
