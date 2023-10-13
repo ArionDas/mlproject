@@ -55,3 +55,5 @@
 27. fill in logger file
 
 28. test their working using name == main functions
+
+29. perform EDA, Feature Engineering on a Jupyter notebook
