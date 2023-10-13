@@ -31,3 +31,25 @@
 15. type "pip install -r requirements.txt"
 
 16. commit and push to Github
+
+17. make the components folder in src
+
+18. data ingestion file in components
+
+19. data transformation file in components
+
+20. model trainer file in components
+
+21. create pipeline folder in src
+
+22. train pipeline file in pipeline folder
+
+23. predict pipeline file in pipeline folder
+
+24. add init to pipeline folder
+
+25. make files - logger, exception, utils in src
+
+26. fill in the exception file
+
+27. fill in logger file
