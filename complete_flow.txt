@@ -1,0 +1,31 @@
+1. open conda prompt
+
+2. go to directory 
+
+3. type "code ." to open VSCode
+
+4. open terminal
+
+5. type "conda create -p venv python==3.8 -y"
+    -> venv - environment name
+    -> 3.8 - version
+
+6. type "conda activate venv/"
+
+7. commit and push readme file to Github
+
+8. add gitignore file
+
+9. type "git pull" on terminal to sync both sides
+
+10. make files - setup.py and requirements.txt
+
+11. make 'src' folder with the init.py file
+
+12. complete the function for getting requirements in the setup file
+
+13. add in "-e ." in the requirements.txt file to automatically trigger the setup.py file to execute when changes made to requirements
+
+14. make necessary changes in setup.py
+
+15. type "pip install -r requirements.txt"
