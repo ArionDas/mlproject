@@ -53,3 +53,5 @@
 26. fill in the exception file
 
 27. fill in logger file
+
+28. test their working using name == main functions
